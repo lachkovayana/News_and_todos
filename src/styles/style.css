@@ -1,0 +1,30 @@
+.heart {
+    color: rgb(160, 0, 0);
+    font-size: 20px;
+}
+
+.highlited {
+    border-left-width: 10px;
+    border-left-style: solid;
+    padding: 5px 10px;
+}
+
+.pr1 {
+    border-left-color: #ebebeb;
+}
+
+.pr2 {
+    border-left-color: #ffc107;
+}
+
+.pr3 {
+    border-left-color: #dc3545;
+}
+
+.isCompleted {
+    background-color: #c3e6cb;
+}
+
+.card .nav-link {
+    color: #3d3d3d !important; 
+}
